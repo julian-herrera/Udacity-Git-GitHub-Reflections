@@ -20,6 +20,8 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+ - Commits form directed graphs, so it's only natural to represent them using diagrams. A Diagram is a very useful visual representation of a directed graph.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
