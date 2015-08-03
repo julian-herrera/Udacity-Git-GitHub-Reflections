@@ -21,7 +21,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+ - Using a shared folder using a cloud-base service like Dropbox so every one works on the same code base, but use some instant communication service to prevent multiple people from editing the same set of files simultaneously. On the bright side, the cloud-based service will take care of keeping all local copies updated. On the down side, this would require a lot more coordination effort between peers so as to not step into others' toes. Also, reverting to previous versions of the repository would be harder, not to mention comparing versions to see what changed.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
