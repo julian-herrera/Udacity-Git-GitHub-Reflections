@@ -26,4 +26,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+ - While working directly on master entails less steps when merging changes, using a separate branch as a temporary area can actually make the workflow easier, or at least it presents the changes in an easier to identify way at the cost of more commands/steps.
